@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "caneta Bic azul",
+      "price": 2.9
+    },
+    {
+      "id": 2,
+      "name": "Lapis Faber Castell",
+      "price": 3.5
+    },
+    {
+      "id": 3,
+      "name": "Borracha Faber Castell",
+      "price": 1.2
+    },
+    [
+      {
+        "id": 4,
+        "name": "Gis de cera",
+        "price": 5.9
+      },
+      {
+        "id": 5,
+        "name": "Caderno de desenho",
+        "price": 7.5
+      }
+    ]
+  ]
+}
